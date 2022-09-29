@@ -9,7 +9,7 @@ public class ExemploCasting {
 		b = 2;
 		
 		//resultado = a / b;//perde valor
-		resultado =(double) a / b;
+		resultado =(double) a / b;//casting
 		
 		System.out.println(resultado);
 
